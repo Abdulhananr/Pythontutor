@@ -1,0 +1,43 @@
+Looks like we've got a variety of Python files in each chapter. Let's break them down:
+
+**Chapter 1:**
+- 1liter.py
+- 1plus1.py
+- acceleration.py
+- a_pm_b_sqr.py
+- egg.py
+- find_errors.py
+- formulas_shapes.py
+- Gaussian1.py
+- hello_world.py
+- interest_rate.py
+- kick.py
+- length_conversion.py
+- quadratic_find_errors.py
+- seconds2years.py
+- sin2_plus_cos2.py
+
+**Chapter 2:**
+- ball_table1.py
+- ball_table2.py
+- ball_table3.py
+- compare_float.py
+- coor1.py
+- coor2.py
+- f2c_approx_lists.py
+- f2c_approx_table.py
+- f2c_table_while.py
+- index_nested_list.py
+- interest_rate_loop.py
+- inverse_sine.py
+- listcomp2for.py
+- machine_zero.py
+- nested_list_iter.py
+- odd.py
+- odd_list1.py
+- odd_list2.py
+- primes.py
+- repeated_sqrt.py
+- sum_for.py
+- sum_while.py
+- time_while.py

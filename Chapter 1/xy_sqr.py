@@ -1,0 +1,10 @@
+x_value = 3.3  # input value
+y_value = 5.3  # input value
+x_squared = x_value ** 2  # calculate square of x
+y_squared = y_value ** 2  # calculate square of y
+sum_of_squares_1 = x_squared + 2 * x_value * y_value + y_squared  # calculate sum of squares and cross product
+sum_of_squares_2 = x_squared - 2 * x_value * y_value + y_squared  # calculate sum of squares and negative cross product
+power_of_sum_1 = (x_value + y_value) ** 2  # calculate square of sum
+power_of_sum_2 = (x_value - y_value) ** 2  # calculate square of difference
+print(f'First equation: {sum_of_squares_1} = {power_of_sum_1}')  # print first equation
+print(f'Second equation: {sum_of_squares_2} = {power_of_sum_2}')  # print second equation

@@ -1,2 +1,2 @@
 
-Print("Thank You To Watch This Cource"
+Print("Thank You To Watch This Cource")

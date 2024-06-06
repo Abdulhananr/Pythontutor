@@ -41,3 +41,39 @@ Looks like we've got a variety of Python files in each chapter. Let's break them
 - sum_for.py
 - sum_while.py
 - time_while.py
+**Chapter 3**
+adaptive_trapezint.py
+area_triangle.py
+cossum.py
+count_pairs.py
+count_substr.py
+diff_f.py
+egg_func.py
+f2c.py
+fact.py
+find_primes.py
+Gaussian2.py
+Heaviside.py
+hw_func.py
+indicator_func.py
+kinematics1.py
+kinematics2.py
+L2_recursive.py
+L3_flexible.py
+maxmin_f.py
+maxmin_list.py
+midpointint.py
+mysum.py
+pathlength.py
+piecewise_constant1.py
+piecewise_constant2.py
+pi_approx.py
+polyprod.py
+quadratic_roots.py
+sinesum1.py
+smoothed_Heaviside.py
+sorted_stars_data.py
+sum_func.py
+trapezint.py
+trapezint1.py
+trapezint2.py

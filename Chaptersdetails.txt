@@ -41,6 +41,7 @@ Looks like we've got a variety of Python files in each chapter. Let's break them
 - sum_for.py
 - sum_while.py
 - time_while.py
+
 **Chapter 3**
 adaptive_trapezint.py
 area_triangle.py
@@ -77,3 +78,32 @@ sum_func.py
 trapezint.py
 trapezint1.py
 trapezint2.py
+
+**Chapter 4:**
+- add_cml2.py
+- ball_cml.py
+- ball_cml_errorcheck.py
+- ball_cml_qa.py
+- ball_cml_ValueError.py
+- ball_qa.py
+- binomial_distribution.py
+- binomial_problems.py
+- cml_exception.py
+- convert_temp.py
+- convert_temp2.py
+- f2c_cml.py
+- f2c_cml_exc.py
+- f2c_qa.py
+- math_identities_failures.py
+- math_identities_failures_cml.py
+- math_identities_failures_table.py
+- objects_cml.py
+- objects_qa.py
+- poisson_distribution.py
+- sinesum2.py
+- sinesum3.py
+- sinesum4.py
+- stopping_length.py
+- user_formula2.py
+- weekday.py
+
